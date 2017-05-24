@@ -1,3 +1,4 @@
-25-05 (1 lecture each day + related video) ( 4 hrs each day ) + NumPy
-
+25-05 EDIT : http://www.wildml.com/2016/10/learning-reinforcement-learning/ 
+use this instead 
+David Silver did'nt had the coding part its just plain theory ( which is of less concern to us right now ) 
 
