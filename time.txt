@@ -4,6 +4,10 @@ Below links have theory as well python code so it might help a bit better
 for today (25 may ) :-
   read about this article i think its good
   https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0
+  (for implementation)
+  http://www.wildml.com/2016/10/learning-reinforcement-learning/
+  (for theory)
+  Its very long and detailed ( i think :) )
   It even has the code with it and we'll read about everything that we would encounter but please make an effort to completely     understand the code and all underlying concepts.
   PS : we have to make pong game first 
 
